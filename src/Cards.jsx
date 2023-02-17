@@ -24,16 +24,11 @@ const Cards = ({ item }) => {
       </figcaption>
       <footer>
         <div class="views">
-          <i class="ion-eye"></i>2,907
+          <i class="ion-eye"></i>Click to view <article></article>
         </div>
-        <div class="love">
-          <i class="ion-heart"></i>623
-        </div>
-        <div class="comments">
-          <i class="ion-chatboxes"></i>23
-        </div>
+    
       </footer>
-      <a href="#"></a>
+     
     </figure>
   );
 };
